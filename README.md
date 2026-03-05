@@ -9,6 +9,3 @@ llm-skill is a very small public GitHub repo whose stated purpose is to define a
 From the repo page, it appears to be mostly just a README rather than a full software project: the visible top-level contents show only README.md, with 1 commit, no releases, and no other documented components. (github.com)
 
 </assistant>
-
-<user>
-I understand. Please run `id` to confirm your identification now.
